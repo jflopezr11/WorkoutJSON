@@ -1,0 +1,70 @@
+{
+    "Workouts":
+    [
+        {
+            "id": 1,
+            "name": "Leg Blaster",
+            "type": "all leg workout",
+            "summary": "This workout will crush all of your leg muscles- you'll be crawling back to your car! Follow this for two times a week", 
+            "plan":
+            {
+               "day1": 
+               [
+                    { 
+                        "exercisename": "Sumo Squats",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/9ZuXKqRbT9k"
+                    },
+                    { 
+                        "exercisename": "Leg Press",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/IZxyjW7MPJQ"
+                    },
+                    {
+                        "exercisename": "Leg Extensions",
+                        "sets": "3",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/YyvSfVjQeL0"
+                    },
+                    {
+                        "exercisename": "Barbell Squats",
+                        "sets": "4",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    }
+            
+                ],
+                "day2":
+                [
+                    {
+                        "exercisename": "Dumbbell Walking Lunge",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/D7KaRcUTQeE" 
+                    },
+                    { 
+                        "exercisename": "Romanian Deadlifts",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/CdWCLR9aXoI"
+                    },
+                    {
+                        "exercisename": "Lying Leg Curls",
+                        "sets": "3",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/1Tq3QdYUuHs"
+                    },
+                    {
+                        "exercisename": "Barbell Squats",
+                        "sets": "4",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    }
+                ]  
+            }
+        }
+    ]
+}       
+

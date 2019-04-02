@@ -1,0 +1,84 @@
+{
+    "Workouts":
+    [
+        {
+            "id": 2,
+            "name": "Lifting? More Like Greek god in the making! ",
+            "type": "Powerlift Workout",
+            "summary": "This workout will help you sculpt your body like a greek god! This is a full body workout that you follow at 3 times a week. And, don't forget lift heavy", 
+            "plan":
+            {
+                "day1":
+                [
+                    { 
+                        "exercisename": "Back Squat",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    },
+                    { 
+                        "exercisename": "Bench Press",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/gRVjAtPip0Y"
+                    },
+                    {
+                        "exercisename": "Vertical Pull Ups",
+                        "sets": "4",
+                        "reps": "10",
+                        "example":"https://youtu.be/hWJAZjIhtCE"
+                    }
+                ],
+                "day2":
+                [
+                    { 
+                        "exercisename": "Back Squat",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    },
+                    { 
+                        "exercisename": "Bench Press",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/gRVjAtPip0Y"
+                    },
+                    {
+                        "exercisename": "Vertical Push",
+                        "sets": "4",
+                        "reps": "10",
+                        "example":"https://youtu.be/KmntSHL_0k4"
+                    }
+                ],
+                "day3":
+                [
+                    { 
+                        "exercisename": "Back Squat",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    },
+                    { 
+                        "exercisename": "Bench Press",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/gRVjAtPip0Y"
+                    },
+                    {
+                        "exercisename": "Horizontal Pull",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/isQDKqRcf84"
+                    },
+                    {
+                        "exercisename": "Single Leg Variant",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/7UJLJl3qUaU"
+                    }
+                ]
+            }
+
+        }
+    ]
+}
