@@ -1,0 +1,239 @@
+{
+    "Workouts":[
+        {
+            "id": 1,
+            "name": "Leg Blaster",
+            "type": "all leg workout",
+            "summary": "This workout will crush all of your leg muscles- you'll be crawling back to your car! Follow this for two times a week", 
+            "plan":{
+               "day1": [
+                    { 
+                        "exercisename": "Sumo Squats",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/9ZuXKqRbT9k"
+                    },
+                    { 
+                        "exercisename": "Leg Press",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/IZxyjW7MPJQ"
+                    },
+                    {
+                        "exercisename": "Leg Extensions",
+                        "sets": "3",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/YyvSfVjQeL0"
+                    },
+                    {
+                        "exercisename": "Barbell Squats",
+                        "sets": "4",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    }
+            
+                ],
+                "day2":[
+                    {
+                        "exercisename": "Dumbbell Walking Lunge",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/D7KaRcUTQeE" 
+                    },
+                    { 
+                        "exercisename": "Romanian Deadlifts",
+                        "sets": "3",
+                        "reps": "15",
+                        "example":"https://youtu.be/CdWCLR9aXoI"
+                    },
+                    {
+                        "exercisename": "Lying Leg Curls",
+                        "sets": "3",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/1Tq3QdYUuHs"
+                    },
+                    {
+                        "exercisename": "Barbell Squats",
+                        "sets": "4",
+                        "reps": "10-15",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    }
+                ]  
+            },
+
+            "id": 2,
+            "name": "The Insane Cardio HIIT",
+            "type": "HIIT Workout",
+            "summary": "This workout will help you lose that stubborn body fat! Follow this for three times a week for no more than 30 minutes- preferably in the morning before breakfast and lifting", 
+            "plan":{
+                "warmup":[
+                    {
+                        "exercisename": "Jog in place",
+                        "sets": "1",
+                        "reps": "30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"  
+                    },
+                    {
+                        "exercisename": "Overhead stretch + toe touch",
+                        "sets": "1",
+                        "reps": "30 seconds for each side",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4" 
+                    },
+                    {
+                        "exercisename": "Front Kicks",
+                        "sets": "1",
+                        "reps": "30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4" 
+                    },
+                    {
+                        "exercisename": "Jumping Jacks",
+                        "sets": "1",
+                        "reps": "30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4" 
+                    },
+                    {
+                        "exercisename": "Alternating Jumping Lunges in Place",
+                        "sets": "1",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4" 
+                    }
+                ],
+
+                "mainset":[
+                    {
+                        "exercisename": "Sprints",
+                        "sets": "2",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    },
+                    {
+                        "exercisename": "Jumping Squats",
+                        "sets": "2",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "20 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    },
+                    {
+                        "exercisename": "Burpee",
+                        "sets": "2",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "20 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    },
+                    {
+                        "exercisename": "Bear Crawls",
+                        "sets": "1",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    },
+                    {
+                        "exercisename": "lunges with a twist",
+                        "sets": "2",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    },
+                    {
+                        "exercisename": "High Knees in Place",
+                        "sets": "2",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    },
+                    {
+                        "exercisename": "Alternating Jumping Lunges in Place",
+                        "sets": "1",
+                        "reps": "As much as you can do in 30 seconds",
+                        "rest": "10 second rest",
+                        "example":"https://youtu.be/5Yz9odanXN4"
+                    }
+                ]
+
+            },
+
+            "id": 2,
+            "name": "Lifting? More Like Greek god in the making! ",
+            "type": "Powerlift Workout",
+            "summary": "This workout will help you sculpt your body like a greek god! This is a full body workout that you follow at 3 times a week. And, don't forget lift heavy", 
+            "plan":{
+                "day1":[
+                    { 
+                        "exercisename": "Back Squat",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    },
+                    { 
+                        "exercisename": "Bench Press",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/gRVjAtPip0Y"
+                    },
+                    {
+                        "exercisename": "Vertical Pull Ups",
+                        "sets": "4",
+                        "reps": "10",
+                        "example":"https://youtu.be/hWJAZjIhtCE"
+                    }
+                ],
+                "day2":[
+                    { 
+                        "exercisename": "Back Squat",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    },
+                    { 
+                        "exercisename": "Bench Press",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/gRVjAtPip0Y"
+                    },
+                    {
+                        "exercisename": "Vertical Push",
+                        "sets": "4",
+                        "reps": "10",
+                        "example":"https://youtu.be/KmntSHL_0k4"
+                    }
+                ],
+                "day3":[
+                    { 
+                        "exercisename": "Back Squat",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/Dy28eq2PjcM"
+                    },
+                    { 
+                        "exercisename": "Bench Press",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/gRVjAtPip0Y"
+                    },
+                    {
+                        "exercisename": "Horizontal Pull",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/isQDKqRcf84"
+                    },
+                    {
+                        "exercisename": "Single Leg Variant",
+                        "sets": "3",
+                        "reps": "8",
+                        "example":"https://youtu.be/7UJLJl3qUaU"
+                    }
+                ]
+            }
+
+
+        }
+
+    ]
+}       
+
